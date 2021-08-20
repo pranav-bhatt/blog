@@ -5,10 +5,10 @@ author: Pranav
 categories: [ Technical ]
 image: https://52north.org/wp-content/uploads/2020/02/anmerkung-2020-02-21-093222.png
 tags: [ google summer of code, gsoc, coap, drogue ]
-beforetoc: "As GSoC 2021 draws to an end, I can safely say that it has been one of the most enthralling experiences of my life. Here is what I've been up to..."
+beforetoc: "Before I begin, I would like to express my deepest gratitude to my mentors Ulf and Jens. I'm sure I troubled them quite a bit, but they were extremely kind and welcoming nonetheless. The amount I have learnt from them cannot ever be summed up by a blog post xD"
 toc: true
 ---
-Before I begin, I would like to express my deepest gratitude to my mentors Ulf and Jens. I'm sure I troubled them quite a bit, but they were extremely kind and welcoming nonetheless. The amount I have learnt from them cannot ever be summed up by a blog post xD
+As GSoC 2021 draws to an end, I can safely say that it has been one of the most enthralling experiences of my life. Here is what I've been up to..."
 
 ## TL;DR - List of PRs
 
